@@ -1,0 +1,10 @@
+c:\users\chinnu\documents\visual studio 2015\Projects\CSharpLab\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+c:\users\chinnu\documents\visual studio 2015\Projects\CSharpLab\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+c:\users\chinnu\documents\visual studio 2015\Projects\CSharpLab\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+c:\users\chinnu\documents\visual studio 2015\Projects\CSharpLab\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\chinnu\documents\visual studio 2015\Projects\CSharpLab\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+c:\users\chinnu\documents\visual studio 2015\Projects\CSharpLab\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.manifest
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.application
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe.manifest
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.application

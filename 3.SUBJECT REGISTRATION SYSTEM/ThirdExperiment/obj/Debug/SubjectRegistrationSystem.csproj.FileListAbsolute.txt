@@ -1,0 +1,6 @@
+C:\Users\chinnu\documents\visual studio 2015\Projects\CSharpLab\ThirdExperiment\ThirdExperiment\bin\Debug\ThirdExperiment.exe.config
+C:\Users\chinnu\documents\visual studio 2015\Projects\CSharpLab\ThirdExperiment\ThirdExperiment\bin\Debug\ThirdExperiment.exe
+C:\Users\chinnu\documents\visual studio 2015\Projects\CSharpLab\ThirdExperiment\ThirdExperiment\bin\Debug\ThirdExperiment.pdb
+C:\Users\chinnu\documents\visual studio 2015\Projects\CSharpLab\ThirdExperiment\ThirdExperiment\obj\Debug\ThirdExperiment.exe
+C:\Users\chinnu\documents\visual studio 2015\Projects\CSharpLab\ThirdExperiment\ThirdExperiment\obj\Debug\ThirdExperiment.pdb
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\ThirdExperiment\ThirdExperiment\obj\Debug\SubjectRegistrationSystem.csprojResolveAssemblyReference.cache

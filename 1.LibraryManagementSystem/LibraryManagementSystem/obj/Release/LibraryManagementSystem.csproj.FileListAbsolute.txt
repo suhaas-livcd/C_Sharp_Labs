@@ -1,0 +1,6 @@
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.exe.config
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.exe
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\LibraryManagementSystem\LibraryManagementSystem\bin\Release\LibraryManagementSystem.pdb
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.exe
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.pdb
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\LibraryManagementSystem\LibraryManagementSystem\obj\Release\LibraryManagementSystem.csprojResolveAssemblyReference.cache
