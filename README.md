@@ -4,7 +4,7 @@ Welcome to C_Sharp_Labs
 - It's a cool `repository` to share mini *applications* with their proper **documentation**!
 - Helps the students to learn as well as build a innovative application by contributing.
 - Get used to basic C# concepts in build **Web** and **Console** Applications.
-- `Types Covered:` **Console Apps, Windows Form Apps, Asp.Net Web Apps,...**
+- `Types Covered:` **Console Apps, Windows Form Apps, Asp.Net Web Apps and many more to be added**
 ## FAQ's
 > How to Download the Source code ?
 - Navigate to application **e.g**  `../3.SUBJECT REGISTRATION SYSTEM/ThirdExperiment/Program.cs`
