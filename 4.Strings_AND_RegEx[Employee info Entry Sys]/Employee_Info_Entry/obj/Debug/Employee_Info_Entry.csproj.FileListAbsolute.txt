@@ -1,1 +1,7 @@
 c:\users\chinnu\documents\visual studio 2015\Projects\CSharpLab\Employee_Info_Entry\Employee_Info_Entry\bin\Debug\Employee_Info_Entry.exe.config
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\4.Strings_AND_RegEx[Employee info Entry Sys]\Employee_Info_Entry\bin\Debug\Employee_Info_Entry.exe.config
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\4.Strings_AND_RegEx[Employee info Entry Sys]\Employee_Info_Entry\bin\Debug\Employee_Info_Entry.exe
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\4.Strings_AND_RegEx[Employee info Entry Sys]\Employee_Info_Entry\bin\Debug\Employee_Info_Entry.pdb
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\4.Strings_AND_RegEx[Employee info Entry Sys]\Employee_Info_Entry\obj\Debug\Employee_Info_Entry.csprojResolveAssemblyReference.cache
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\4.Strings_AND_RegEx[Employee info Entry Sys]\Employee_Info_Entry\obj\Debug\Employee_Info_Entry.exe
+C:\Users\chinnu\Documents\Visual Studio 2015\Projects\CSharpLab\4.Strings_AND_RegEx[Employee info Entry Sys]\Employee_Info_Entry\obj\Debug\Employee_Info_Entry.pdb
